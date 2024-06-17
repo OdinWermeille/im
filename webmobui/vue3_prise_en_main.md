@@ -12,7 +12,7 @@ cd webmobui
 npm install
 npm run dev
 ```
-Vous pouvez installer la chose dans le dossier courant en uitilisant plutôt les commandes suivantes:
+Vous pouvez installer la chose dans le dossier courant en utilisant plutôt les commandes suivantes:
 
 ```
 npm create vite@latest ./ -- --template vue
